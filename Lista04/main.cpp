@@ -1,5 +1,4 @@
 #include <iostream> //biblioteca padrão de entrada e saída
-#include <vector> //utilização da classe vector para a implementação de lista linear
 #include <string>
 
 
